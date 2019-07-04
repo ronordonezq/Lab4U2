@@ -1,0 +1,7 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}ABSTRACT }{1}% 
+\contentsline {section}{\numberline {2}INTRODUCCION}{2}% 
+\contentsline {section}{\numberline {3}MARCO TEORICO}{3}% 
+\contentsline {section}{\numberline {4}APLICACION}{8}% 
+\contentsline {section}{\numberline {5}CONCLUSIONES}{11}% 
+\contentsline {section}{\numberline {6}REFERENCIAS}{12}% 
